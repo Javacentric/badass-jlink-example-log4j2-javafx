@@ -47,6 +47,7 @@ The above command will generate the platform-specific installers in the `build/j
 yay -S rpmdevtools
 yay -S rpm-builder
 yay -S debmake
+yay -S appimagetool-bin
 
 gradle run
 gradle jlink
